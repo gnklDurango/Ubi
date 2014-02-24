@@ -1,0 +1,142 @@
+/* Global Styles */
+
+body {
+	margin:0px;
+	}
+	
+td {
+	font:11px arial;
+	color:#000000;
+	}
+	
+hr {
+	height:1px; 
+	color: #cccccc;
+	border: none;
+	}
+	
+a {
+	color: #B70632;
+	text-decoration:underline;
+	font: 12 arial;
+	}
+	
+a:hover {
+	color: #D94600;
+	text-decoration:none;
+	}
+	
+/* ID Styles */
+
+#navigation a {
+	font:14px georgia;
+	color: #000099;
+	font-weight:bold;
+	text-decoration: none;
+	letter-spacing:0.1em;
+	line-height:16px;
+	display:block;
+	padding:10px;
+	border: 1pt solid rgb(20,40,95);
+	border-right-width: 0px; 
+	border-left-width: 0px; 
+	}
+	
+#navigation a:hover {
+	color:#FFFFFF;
+	border: 1pt dotted red;
+	border-right-width: 0px;
+	border-left-width: 0px;
+	background: #87A948;
+	}
+	
+#sidebarHeader {
+	padding: 0px 4px 14px 4px;
+	color: #333333;
+	}
+
+#logo {
+	color: #FFFFFF;
+	line-height:24px;
+	letter-spacing:0.4em;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	}
+
+#tagline {
+	color: #FFFFFF;
+	line-height:18px;
+	letter-spacing:0.4em;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	}
+	
+#dateformat a {
+	color:#99CCFF;
+	font:11px georgia;
+	color: #99CCFF;
+	letter-spacing:.2em;
+	text-decoration:none;
+	font-weight:bold;
+	}
+	
+#dateformat a:hover {
+	color: #009933;
+	}
+
+/* Class Styles */
+
+.bodyText {
+	font:11px arial;
+	color:#333333;
+	line-height:20px;
+	letter-spacing:0.1em;
+	margin-top:0px;
+	}
+	
+.pageName{
+	font:22px georgia;
+	color: #CC3300;
+	line-height:20px;
+	letter-spacing:.1em;
+	}
+	
+.subHeader {
+	font:16px georgia;
+	color: #000033;
+	font-weight:bold;
+	letter-spacing:0.1em;
+	line-height:normal;
+	}	
+	
+.sidebarHeader {
+	font:14px georgia;
+	color: #000066;
+	font-weight:bold;
+	letter-spacing:0.1em;
+	line-height:16px;
+	}	
+	
+.detailText {
+	color:#333333;
+	line-height:16px;
+	letter-spacing:0.1em;
+	font-family: arial;
+	font-size: 11px;
+	
+	}
+	
+.smallText {
+	font:10px arial;
+	color:#99CCFF;
+	}
+	
+.enca  {
+	color:#FFFFFF;
+	line-height:16px;
+	letter-spacing:0.1em;
+	font-family: arial;
+	font-size: 11px;
+	font-weight: bold;
+	}
+	
